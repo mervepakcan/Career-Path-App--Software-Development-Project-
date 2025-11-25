@@ -14,7 +14,7 @@
           <mxGeometry height="40" width="100" x="140" y="70" as="geometry" />
         </mxCell>
         <mxCell id="Sb9hK8QERMuq7dk3VHBl-4" parent="1" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" value="&lt;h6&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;UI Layer&lt;/font&gt;&lt;/h6&gt;" vertex="1">
-          <mxGeometry height="40" width="100" x="150" y="90" as="geometry" />
+          <mxGeometry height="40" width="100" x="152.5" y="90" as="geometry" />
         </mxCell>
         <mxCell id="Sb9hK8QERMuq7dk3VHBl-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="" vertex="1">
           <mxGeometry height="220" width="170" x="120" y="270" as="geometry" />
@@ -57,6 +57,21 @@
         </mxCell>
         <mxCell id="Sb9hK8QERMuq7dk3VHBl-23" parent="1" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;" value="RoomService&amp;nbsp;" vertex="1">
           <mxGeometry height="40" width="130" x="135" y="630" as="geometry" />
+        </mxCell>
+        <mxCell id="rC9jHo4Xpemx9fWOV19E-1" parent="1" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" value="&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;white-space: nowrap; font-size: 13px; caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0);&quot;&gt;&lt;u&gt;Database&lt;/u&gt;&lt;/font&gt;&lt;span style=&quot;white-space: nowrap; font-size: 16.08px; caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0);&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;&lt;u&gt;&amp;nbsp;Server&lt;/u&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="160" width="230" x="430" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rC9jHo4Xpemx9fWOV19E-2" parent="1" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" value="" vertex="1">
+          <mxGeometry height="80" width="220" x="440" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="rC9jHo4Xpemx9fWOV19E-3" parent="1" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" value="" vertex="1">
+          <mxGeometry height="80" width="220" x="450" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="rC9jHo4Xpemx9fWOV19E-4" parent="1" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" value="" vertex="1">
+          <mxGeometry height="80" width="210" x="460" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="rC9jHo4Xpemx9fWOV19E-5" parent="1" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;" value="Module" vertex="1">
+          <mxGeometry height="40" width="120" x="500" y="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
