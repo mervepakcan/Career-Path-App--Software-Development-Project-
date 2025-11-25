@@ -91,9 +91,6 @@
             <mxPoint x="360" y="144" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Pp5MFHgtxiQmiZPYNsXp-7" parent="1" style="text;whiteSpace=wrap;fontColor=#FFB570;fontStyle=1" value="&lt;&lt;SQL/JDBC&gt;&gt;" vertex="1">
-          <mxGeometry height="40" width="120" x="290" y="430" as="geometry" />
-        </mxCell>
         <mxCell id="Pp5MFHgtxiQmiZPYNsXp-8" edge="1" parent="1" source="Sb9hK8QERMuq7dk3VHBl-7" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;fontColor=#99FFFF;strokeColor=light-dark(#7F00FF,#EDEDED);" target="rC9jHo4Xpemx9fWOV19E-2" value="">
           <mxGeometry relative="1" width="160" as="geometry">
             <mxPoint x="380" y="520" as="sourcePoint" />
@@ -104,18 +101,6 @@
           <mxGeometry relative="1" width="160" as="geometry">
             <mxPoint x="290" y="630" as="sourcePoint" />
             <mxPoint x="450" y="630" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Pp5MFHgtxiQmiZPYNsXp-19" parent="1" style="text;whiteSpace=wrap;fontColor=#009900;fontStyle=1" value="&lt;&lt;REST API&gt;&gt;" vertex="1">
-          <mxGeometry height="40" width="120" x="400" y="545" as="geometry" />
-        </mxCell>
-        <mxCell id="Pp5MFHgtxiQmiZPYNsXp-20" parent="1" style="text;whiteSpace=wrap;fontColor=#9933FF;fontStyle=1" value="&lt;&lt;REST API&gt;&gt;" vertex="1">
-          <mxGeometry height="40" width="120" x="350" y="350" as="geometry" />
-        </mxCell>
-        <mxCell id="Pp5MFHgtxiQmiZPYNsXp-21" edge="1" parent="1" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;" value="">
-          <mxGeometry relative="1" width="160" as="geometry">
-            <mxPoint x="330" y="340" as="sourcePoint" />
-            <mxPoint x="490" y="340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Pp5MFHgtxiQmiZPYNsXp-23" edge="1" parent="1" source="Sb9hK8QERMuq7dk3VHBl-2" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;entryX=0.113;entryY=0.575;entryDx=0;entryDy=0;entryPerimeter=0;exitX=-0.008;exitY=0.598;exitDx=0;exitDy=0;exitPerimeter=0;strokeColor=#0066CC;" target="Sb9hK8QERMuq7dk3VHBl-16" value="">
