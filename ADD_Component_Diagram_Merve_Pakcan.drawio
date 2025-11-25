@@ -13,7 +13,7 @@
         <mxCell id="_RgxSoc-YdUxQzrkXUkX-3" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="&amp;lt;&amp;lt;subsystem&amp;gt;&amp;gt; Admin &amp;amp; System Management&amp;nbsp;" vertex="1">
           <mxGeometry height="200" width="200" x="380" y="300" as="geometry" />
         </mxCell>
-        <mxCell id="_RgxSoc-YdUxQzrkXUkX-4" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="&amp;lt;&amp;lt;subsystem&amp;gt;&amp;gt; User &amp;amp; Profile&amp;nbsp;" vertex="1">
+        <mxCell id="_RgxSoc-YdUxQzrkXUkX-4" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="&amp;lt;&amp;lt;subsystem&amp;gt;&amp;gt; Career Guidance" vertex="1">
           <mxGeometry height="200" width="200" x="390" y="50" as="geometry" />
         </mxCell>
       </root>
