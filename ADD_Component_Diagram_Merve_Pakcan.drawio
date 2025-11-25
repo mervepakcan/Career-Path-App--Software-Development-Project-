@@ -5,19 +5,124 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="_RgxSoc-YdUxQzrkXUkX-1" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="&amp;lt;&amp;lt;subsystem&amp;gt;&amp;gt; User &amp;amp; Profile&amp;nbsp;" vertex="1">
-          <mxGeometry height="200" width="200" x="100" y="50" as="geometry" />
+          <mxGeometry height="260" width="280" x="100" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="TP2lnLoD-uHoml8w4ff_-1" parent="_RgxSoc-YdUxQzrkXUkX-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="internal structure" vertex="1">
+          <mxGeometry height="30" width="110" x="85" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TP2lnLoD-uHoml8w4ff_-5" parent="_RgxSoc-YdUxQzrkXUkX-1" style="html=1;dropTarget=0;whiteSpace=wrap;" value="AuthenticationService" vertex="1">
+          <mxGeometry height="40" width="180" x="60" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TP2lnLoD-uHoml8w4ff_-6" parent="TP2lnLoD-uHoml8w4ff_-5" style="shape=module;jettyWidth=8;jettyHeight=4;" value="" vertex="1">
+          <mxGeometry height="20" relative="1" width="20" x="1" as="geometry">
+            <mxPoint x="-27" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TP2lnLoD-uHoml8w4ff_-12" parent="_RgxSoc-YdUxQzrkXUkX-1" style="html=1;dropTarget=0;whiteSpace=wrap;" value="ProfileManager" vertex="1">
+          <mxGeometry height="40" width="180" x="60" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="TP2lnLoD-uHoml8w4ff_-13" parent="TP2lnLoD-uHoml8w4ff_-12" style="shape=module;jettyWidth=8;jettyHeight=4;" value="" vertex="1">
+          <mxGeometry height="20" relative="1" width="20" x="1" as="geometry">
+            <mxPoint x="-27" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TP2lnLoD-uHoml8w4ff_-14" parent="_RgxSoc-YdUxQzrkXUkX-1" style="html=1;dropTarget=0;whiteSpace=wrap;" value="UserDataAPI" vertex="1">
+          <mxGeometry height="40" width="180" x="60" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="TP2lnLoD-uHoml8w4ff_-15" parent="TP2lnLoD-uHoml8w4ff_-14" style="shape=module;jettyWidth=8;jettyHeight=4;" value="" vertex="1">
+          <mxGeometry height="20" relative="1" width="20" x="1" as="geometry">
+            <mxPoint x="-27" y="7" as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="_RgxSoc-YdUxQzrkXUkX-2" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="&amp;lt;&amp;lt;subsystem&amp;gt;&amp;gt;&amp;nbsp;&amp;nbsp;Mentorship &amp;amp; Scheduling&amp;nbsp;" vertex="1">
-          <mxGeometry height="200" width="200" x="100" y="300" as="geometry" />
+          <mxGeometry height="230" width="280" x="100" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="TP2lnLoD-uHoml8w4ff_-3" parent="_RgxSoc-YdUxQzrkXUkX-2" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="internal structure" vertex="1">
+          <mxGeometry height="30" width="110" x="85" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TP2lnLoD-uHoml8w4ff_-22" parent="_RgxSoc-YdUxQzrkXUkX-2" style="html=1;dropTarget=0;whiteSpace=wrap;" value="MentorFinder" vertex="1">
+          <mxGeometry height="40" width="180" x="40" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TP2lnLoD-uHoml8w4ff_-23" parent="TP2lnLoD-uHoml8w4ff_-22" style="shape=module;jettyWidth=8;jettyHeight=4;" value="" vertex="1">
+          <mxGeometry height="20" relative="1" width="20" x="1" as="geometry">
+            <mxPoint x="-27" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TP2lnLoD-uHoml8w4ff_-24" parent="_RgxSoc-YdUxQzrkXUkX-2" style="html=1;dropTarget=0;whiteSpace=wrap;" value="SessionBooking" vertex="1">
+          <mxGeometry height="40" width="180" x="40" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="TP2lnLoD-uHoml8w4ff_-25" parent="TP2lnLoD-uHoml8w4ff_-24" style="shape=module;jettyWidth=8;jettyHeight=4;" value="" vertex="1">
+          <mxGeometry height="20" relative="1" width="20" x="1" as="geometry">
+            <mxPoint x="-27" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TP2lnLoD-uHoml8w4ff_-26" parent="_RgxSoc-YdUxQzrkXUkX-2" style="html=1;dropTarget=0;whiteSpace=wrap;" value="AvailabilityManager" vertex="1">
+          <mxGeometry height="40" width="180" x="40" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="TP2lnLoD-uHoml8w4ff_-27" parent="TP2lnLoD-uHoml8w4ff_-26" style="shape=module;jettyWidth=8;jettyHeight=4;" value="" vertex="1">
+          <mxGeometry height="20" relative="1" width="20" x="1" as="geometry">
+            <mxPoint x="-27" y="7" as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="_RgxSoc-YdUxQzrkXUkX-3" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="&amp;lt;&amp;lt;subsystem&amp;gt;&amp;gt; Admin &amp;amp; System Management&amp;nbsp;" vertex="1">
-          <mxGeometry height="200" width="200" x="380" y="300" as="geometry" />
+          <mxGeometry height="220" width="270" x="414" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="TP2lnLoD-uHoml8w4ff_-4" parent="_RgxSoc-YdUxQzrkXUkX-3" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="internal structure" vertex="1">
+          <mxGeometry height="30" width="110" x="76" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TP2lnLoD-uHoml8w4ff_-28" parent="_RgxSoc-YdUxQzrkXUkX-3" style="html=1;dropTarget=0;whiteSpace=wrap;" value="UserManager" vertex="1">
+          <mxGeometry height="40" width="180" x="46" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="TP2lnLoD-uHoml8w4ff_-29" parent="TP2lnLoD-uHoml8w4ff_-28" style="shape=module;jettyWidth=8;jettyHeight=4;" value="" vertex="1">
+          <mxGeometry height="20" relative="1" width="20" x="1" as="geometry">
+            <mxPoint x="-27" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TP2lnLoD-uHoml8w4ff_-30" parent="_RgxSoc-YdUxQzrkXUkX-3" style="html=1;dropTarget=0;whiteSpace=wrap;" value="SystemLogsManager" vertex="1">
+          <mxGeometry height="40" width="180" x="45" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="TP2lnLoD-uHoml8w4ff_-31" parent="TP2lnLoD-uHoml8w4ff_-30" style="shape=module;jettyWidth=8;jettyHeight=4;" value="" vertex="1">
+          <mxGeometry height="20" relative="1" width="20" x="1" as="geometry">
+            <mxPoint x="-27" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TP2lnLoD-uHoml8w4ff_-32" parent="_RgxSoc-YdUxQzrkXUkX-3" style="html=1;dropTarget=0;whiteSpace=wrap;" value="RolePermissionManager" vertex="1">
+          <mxGeometry height="40" width="180" x="45" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="TP2lnLoD-uHoml8w4ff_-33" parent="TP2lnLoD-uHoml8w4ff_-32" style="shape=module;jettyWidth=8;jettyHeight=4;" value="" vertex="1">
+          <mxGeometry height="20" relative="1" width="20" x="1" as="geometry">
+            <mxPoint x="-27" y="7" as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="_RgxSoc-YdUxQzrkXUkX-4" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="&amp;lt;&amp;lt;subsystem&amp;gt;&amp;gt; Career Guidance" vertex="1">
-          <mxGeometry height="200" width="200" x="390" y="50" as="geometry" />
+          <mxGeometry height="240" width="280" x="390" y="50" as="geometry" />
         </mxCell>
-        <mxCell id="TP2lnLoD-uHoml8w4ff_-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Text" vertex="1">
-          <mxGeometry height="30" width="60" x="380" y="290" as="geometry" />
+        <mxCell id="TP2lnLoD-uHoml8w4ff_-2" parent="_RgxSoc-YdUxQzrkXUkX-4" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="internal structure" vertex="1">
+          <mxGeometry height="30" width="110" x="70" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TP2lnLoD-uHoml8w4ff_-16" parent="_RgxSoc-YdUxQzrkXUkX-4" style="html=1;dropTarget=0;whiteSpace=wrap;" value="RecommendationEngine" vertex="1">
+          <mxGeometry height="40" width="180" x="50" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TP2lnLoD-uHoml8w4ff_-17" parent="TP2lnLoD-uHoml8w4ff_-16" style="shape=module;jettyWidth=8;jettyHeight=4;" value="" vertex="1">
+          <mxGeometry height="20" relative="1" width="20" x="1" as="geometry">
+            <mxPoint x="-27" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TP2lnLoD-uHoml8w4ff_-18" parent="_RgxSoc-YdUxQzrkXUkX-4" style="html=1;dropTarget=0;whiteSpace=wrap;" value="RoadmapGenerator" vertex="1">
+          <mxGeometry height="40" width="180" x="50" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="TP2lnLoD-uHoml8w4ff_-19" parent="TP2lnLoD-uHoml8w4ff_-18" style="shape=module;jettyWidth=8;jettyHeight=4;" value="" vertex="1">
+          <mxGeometry height="20" relative="1" width="20" x="1" as="geometry">
+            <mxPoint x="-27" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TP2lnLoD-uHoml8w4ff_-20" parent="_RgxSoc-YdUxQzrkXUkX-4" style="html=1;dropTarget=0;whiteSpace=wrap;" value="ProgressTracker" vertex="1">
+          <mxGeometry height="40" width="180" x="50" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="TP2lnLoD-uHoml8w4ff_-21" parent="TP2lnLoD-uHoml8w4ff_-20" style="shape=module;jettyWidth=8;jettyHeight=4;" value="" vertex="1">
+          <mxGeometry height="20" relative="1" width="20" x="1" as="geometry">
+            <mxPoint x="-27" y="7" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
