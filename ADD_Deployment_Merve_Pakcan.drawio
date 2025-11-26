@@ -4,17 +4,75 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="VkUshdu9FMJ9GXpvKxL2-5" parent="1" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" value="Block" vertex="1">
-          <mxGeometry height="120" width="180" x="390" y="210" as="geometry" />
+        <mxCell id="VkUshdu9FMJ9GXpvKxL2-5" parent="1" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" value="&amp;lt;&amp;lt;device&amp;gt;&amp;gt;&amp;nbsp;&lt;span style=&quot;text-decoration: none;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Admin Panel&lt;/font&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="120" width="180" x="390" y="270" as="geometry" />
         </mxCell>
-        <mxCell id="VkUshdu9FMJ9GXpvKxL2-6" parent="1" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" value="Block" vertex="1">
+        <mxCell id="VkUshdu9FMJ9GXpvKxL2-6" parent="1" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" value="&amp;lt;&amp;lt;device&amp;gt;&amp;gt;&amp;nbsp;&lt;span style=&quot;text-decoration: none;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Database Server&lt;/font&gt;&lt;/span&gt;" vertex="1">
           <mxGeometry height="120" width="180" x="130" y="230" as="geometry" />
         </mxCell>
-        <mxCell id="VkUshdu9FMJ9GXpvKxL2-7" parent="1" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" value="Block" vertex="1">
-          <mxGeometry height="120" width="180" x="380" y="30" as="geometry" />
+        <mxCell id="VkUshdu9FMJ9GXpvKxL2-7" parent="1" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" value="&amp;lt;&amp;lt;device&amp;gt;&amp;gt;&amp;nbsp;&lt;span style=&quot;text-decoration: none;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Application Server&lt;/font&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="210" width="240" x="380" y="30" as="geometry" />
         </mxCell>
-        <mxCell id="VkUshdu9FMJ9GXpvKxL2-8" parent="1" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" value="Block" vertex="1">
+        <mxCell id="VkUshdu9FMJ9GXpvKxL2-8" parent="1" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" value="&amp;lt;&amp;lt;device&amp;gt;&amp;gt; Client (Web / Mobile)" vertex="1">
           <mxGeometry height="120" width="180" x="130" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aelHZX5YxPaXG0c5rT9a-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;text-align: start;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Web Browser / React UI&lt;/font&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="120" x="140" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="aelHZX5YxPaXG0c5rT9a-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;text-align: start;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;React Admin Dashboard&lt;/font&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="40" width="120" x="420" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="aelHZX5YxPaXG0c5rT9a-3" parent="1" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" value="&lt;span style=&quot;text-decoration: none;&quot;&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;&amp;lt;&amp;lt;executionEnvironment&amp;gt;&amp;gt; Node.js / Express&lt;/font&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="160" width="180" x="400" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="aelHZX5YxPaXG0c5rT9a-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;text-align: start;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;User &amp;amp; Profile Service&lt;/font&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="20" width="120" x="430" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="aelHZX5YxPaXG0c5rT9a-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;text-align: start;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;Career Guidance Service&lt;/font&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="20" width="120" x="430" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="aelHZX5YxPaXG0c5rT9a-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;text-align: start;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;Admin Service&lt;/font&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="20" width="120" x="430" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="aelHZX5YxPaXG0c5rT9a-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;text-align: start;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;Mentorship Service&lt;/font&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="20" width="120" x="430" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="aelHZX5YxPaXG0c5rT9a-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;text-align: start;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;&amp;lt;&amp;lt;database&amp;gt;&amp;gt; PostgreSQL&lt;/font&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="120" x="150" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="aelHZX5YxPaXG0c5rT9a-9" edge="1" parent="1" source="aelHZX5YxPaXG0c5rT9a-1" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="300" as="sourcePoint" />
+            <mxPoint x="400" y="115" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aelHZX5YxPaXG0c5rT9a-10" connectable="0" parent="aelHZX5YxPaXG0c5rT9a-9" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" value="HTTPS" vertex="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aelHZX5YxPaXG0c5rT9a-11" edge="1" parent="1" source="aelHZX5YxPaXG0c5rT9a-2" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.794;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" target="aelHZX5YxPaXG0c5rT9a-3" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="370" y="330" />
+              <mxPoint x="370" y="200" />
+            </Array>
+            <mxPoint x="360" y="300" as="sourcePoint" />
+            <mxPoint x="460" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aelHZX5YxPaXG0c5rT9a-12" connectable="0" parent="aelHZX5YxPaXG0c5rT9a-11" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" value="HTTPS" vertex="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aelHZX5YxPaXG0c5rT9a-13" edge="1" parent="1" source="aelHZX5YxPaXG0c5rT9a-3" style="endArrow=classic;html=1;rounded=0;exitX=0.694;exitY=1.022;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="aelHZX5YxPaXG0c5rT9a-8" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="270" y="181" />
+            </Array>
+            <mxPoint x="360" y="300" as="sourcePoint" />
+            <mxPoint x="460" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aelHZX5YxPaXG0c5rT9a-14" connectable="0" parent="aelHZX5YxPaXG0c5rT9a-13" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" value="&lt;code data-start=&quot;2618&quot; data-end=&quot;2626&quot; style=&quot;text-align: start; white-space: normal;&quot;&gt;TCP/IP&lt;/code&gt;" vertex="1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
