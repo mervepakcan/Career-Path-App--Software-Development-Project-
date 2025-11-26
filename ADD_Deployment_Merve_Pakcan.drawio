@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Safari/605.1.15" version="29.1.1">
   <diagram name="Page-1" id="hTATwjZEpJ9MWs0lq6KX">
-    <mxGraphModel dx="960" dy="578" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="960" dy="1747" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -37,8 +37,8 @@
         <mxCell id="aelHZX5YxPaXG0c5rT9a-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;text-align: start;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;Mentorship Service&lt;/font&gt;&lt;/span&gt;" vertex="1">
           <mxGeometry height="20" width="120" x="430" y="180" as="geometry" />
         </mxCell>
-        <mxCell id="aelHZX5YxPaXG0c5rT9a-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;text-align: start;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;&amp;lt;&amp;lt;database&amp;gt;&amp;gt; PostgreSQL&lt;/font&gt;&lt;/span&gt;" vertex="1">
-          <mxGeometry height="30" width="120" x="150" y="270" as="geometry" />
+        <mxCell id="aelHZX5YxPaXG0c5rT9a-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;text-align: start;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;&amp;lt;&amp;lt;database&amp;gt;&amp;gt; PostgreSQL&lt;/font&gt;&lt;/span&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;Users, Skills, Roadmaps, Mentors&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="150" y="270" as="geometry" />
         </mxCell>
         <mxCell id="aelHZX5YxPaXG0c5rT9a-9" edge="1" parent="1" source="aelHZX5YxPaXG0c5rT9a-1" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" value="">
           <mxGeometry relative="1" as="geometry">
@@ -73,6 +73,12 @@
         </mxCell>
         <mxCell id="aelHZX5YxPaXG0c5rT9a-14" connectable="0" parent="aelHZX5YxPaXG0c5rT9a-13" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" value="&lt;code data-start=&quot;2618&quot; data-end=&quot;2626&quot; style=&quot;text-align: start; white-space: normal;&quot;&gt;TCP/IP&lt;/code&gt;" vertex="1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aelHZX5YxPaXG0c5rT9a-16" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Text" vertex="1">
+          <mxGeometry height="30" width="60" x="380" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="aelHZX5YxPaXG0c5rT9a-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="DEPLOYMENT DIAGRAM" vertex="1">
+          <mxGeometry height="40" width="120" x="310" y="-60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
